@@ -1,5 +1,4 @@
 intents:
-  - greet
   - goodbye
   - affirm
   - deny
@@ -9,6 +8,7 @@ intents:
   - bot_challenge
   - inform
   - search_provider
+  - detect_lunaticism
 
 entities:
   - facility_type
@@ -32,7 +32,6 @@ actions:
   - utter_goodbye
   - utter_ask_location
   - action_facility_search
-  
 
 responses:
   utter_greet:
@@ -60,6 +59,9 @@ responses:
 
   utter_ask_location:
   - text: "In order for me to find the {facility_type}, I need your location."
+
+  utter_lunaticism:
+  - text: "You're fucking crazy."
 
 session_config:
   session_expiration_time: 60

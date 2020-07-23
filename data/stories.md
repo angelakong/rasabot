@@ -47,6 +47,11 @@
 * goodbye
   - utter_goodbye
 
+## lunatic path
+* detect_lunaticism
+  - utter_lunaticism
+
+
 ## bot challenge
 * bot_challenge
   - utter_iamabot

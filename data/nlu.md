@@ -16,6 +16,20 @@
 - hello robot
 - hi
 
+## intent:detect_lunaticism
+- do you have a lighter?
+- i have five knees
+- i want to kill you
+- i have blood on my hands
+- i have a dead body in the back of my trunk
+- biking is a terrible sport
+- lunatics are fine
+- lunatics are wondrous
+- i hate sugar
+- vincent is an great name
+- AHHHH!!!!!!!!
+- The history of lunatics is extremely interesting because madness has historically been associated with gender experiences such as hysteria especially during the second world war, Sigmund Freud believed that madness was the product of sexual instability in women, but due to the war, he was forced to reconcile the realities of trauma because he saw hysterical behavior in men who experienced PTSD in the war, but unfortunately, they didn't recognize PTSD at the time as they do now, and this was the beginning of a new way of conceptually madness as a product of previous experiences versus a product of inherent failure although we still live in a society that values certain forms of ableness. 
+
 ## intent:thanks
 - thanks
 - thank you
